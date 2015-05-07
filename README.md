@@ -1,7 +1,7 @@
 Analyses of recorded bus delays
 ===============================
 
-![Example diagram] (https://www.dropbox.com/s/t2xikwqmi18rp6z/2550_s_1_Erotus_ajo_ja_pysakkiaika_arkisin_201439_201446.png?dl=0 "Example diagram")
+![Example diagram](http://dev.hsl.fi/images/ajoaika_gps_example.png "Example diagram")
 
 Data is available here: http://dev.hsl.fi/ajoaika_gps/
 
